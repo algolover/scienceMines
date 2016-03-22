@@ -1,0 +1,65 @@
+
+.naviar{
+	display: inline;
+	padding: 15px;
+	font-size: 30px;
+
+}
+.navigaonbar{
+
+	
+	margin:auto;
+}
+ul a{
+	text-decoration: none;
+}
+.scientist{
+	height: 107px;
+	
+	background: blue;
+}
+.research{
+	height: 240px;
+	
+	font-size: 28px;
+}
+
+.cartemp{
+	height: 240px;
+	
+}
+
+
+
+
+.abs{
+	
+	
+	background: white;
+}
+.tras{
+	
+	
+	background: green;
+}
+.team{
+	height: 200px;
+	
+
+}
+
+.motto{
+	height: 100px;
+	
+
+}
+
+.details{
+	height: 100px;
+	
+}
+
+.features .glyphicon{
+
+	font-size:32px;
+}
