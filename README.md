@@ -2,7 +2,7 @@
 
 website--> sciencemines.com
 
-It's website to teach science in a more intuitive,practical way.All the phenomenons wil be explained(tried to explain) in laymen terms.
+It's website to teach science in a more intuitive and practical way.All the Laws/Effects are explained in laymen terms.
 If anybody wants to contribute by writing an article or by suggesting some good topics, can mail at rockin.divyanshu[at]gmail.com
 
 
